@@ -1,0 +1,33 @@
+saldo
+1000000
+wplata poczatkowa
+saldo
+-140000
+zus
+zakup
+raspberry
+15000
+5
+sprzedaz
+raspberry
+25000
+3
+sprzedaz
+raspberry
+25000
+2
+zakup
+blueberry
+15000
+4
+sprzedaz
+blueberry
+25000
+2
+saldo
+25000
+Dotacja
+saldo
+-50000
+Zakup maszyn
+stop
